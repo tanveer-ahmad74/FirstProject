@@ -76,7 +76,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'SoftDeletion.wsgi.application'
+WSGI_APPLICATION = 'FirstProject.wsgi.application'
 
 
 # Database
