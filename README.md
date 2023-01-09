@@ -1,0 +1,2 @@
+# FirstProject
+Soft deletion implemented
